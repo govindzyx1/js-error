@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="1778-1776-js-error-rev1-2016-01-11-rev1-2016-01-11">
+    <Basepaths>/js-error</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1563262646404</CreatedAt>
+    <CreatedBy>verma.govind92@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>JS-error</DisplayName>
+    <LastModifiedAt>1563262712456</LastModifiedAt>
+    <LastModifiedBy>verma.govind92@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:e5e573dceb5a028a5c998cd885a09278752e7b73c3d0e85e9ce492e4f290f719be15d80599e1b5e9400ac50e8a2673c9873028f0936310993862f28cfdd35889</ManifestVersion>
+    <Policies>
+        <Policy>Error500</Policy>
+        <Policy>JavaScript-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>jsc://JavaScript-1.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
